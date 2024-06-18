@@ -1,7 +1,6 @@
 {
   "name": "backend-dream",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "engines": {
     "node": "14.x"
@@ -43,5 +42,17 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.18"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delBull/dreamhubmarketplace.git"
+  },
+  "bugs": {
+    "url": "https://github.com/delBull/dreamhubmarketplace/issues"
+  },
+  "homepage": "https://github.com/delBull/dreamhubmarketplace#readme",
+  "description": ""
 }
